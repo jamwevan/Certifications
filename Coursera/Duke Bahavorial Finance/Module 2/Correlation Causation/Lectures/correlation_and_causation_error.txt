@@ -1,0 +1,181 @@
+A lot of times we will find people
+confused a relationship between two events and
+think that one is causing the other. When in fact all that's happening is that
+both of them are being driven by some external factor. I give you kind of a silly example. It happens to be the case that more people are bitten by sharks at times
+when more ice cream is being sold. So, a crazy correlation causation
+error would be to assume that because those two are related to
+each other that eating ice cream and then going swimming happens to make
+you more attractive to sharks. Clearly nonsense, obviously
+there's some other external factor that's driving both of those, and that
+very simply is just the heat of the sun. We're out swimming in
+the sea where sharks are, at times when it's hot we're more likely
+to eat ice cream at times when it's hot. No one's really going to
+make that mistake, but we'll see as we go through the entire
+course there are any number of places. Where people mistake correlation
+being driven by some other factor, the heat of the sun, the causation eating
+ice cream makes you attractive to sharks. Here is a great standard example from
+the financial markets, when equity prices are going up, when the market
+is doing well, and the S&P is rising. Guess what? Most investors are making money,
+not that surprising. Most investors are going to
+make money with their equities. When equity prices in
+general are going up. But what we tend to do, and what we
+see happen a lot, is people mistake this correlation between the equity
+markets going up in general, and therefore my equity
+investment's going up. People confuse that for causation. And tend to assume that they're
+smarter with their investments than they actually are, look I'm making
+money I must be a really smart investor no dude a rising tide
+floats all boats okay. The equity markets are going up and
+you own equities Guess what? You're going to make money. Saying it objectively like
+this in this quiet context it may seem ridiculous to you that
+people would actually make that mistake. Count on it. People make that mistake even professional
+traders make that mistake all the time. I want to take us through
+a slightly more complex example of a slightly different problem. And the reason I want to do this is the
+example that we're going to go through is specifically one of the key causes of
+the massive financial down turn in 2008. So being able to deconstruct
+part of why 2008 happened is in fact a key goal of this class. So lets go through this example and
+see where we go. In this case, it's not Not going to
+be a correlation causation error. It's not people thinking that their
+intelligence is causing their equity portfolio to go up. It's almost the opposite. We're going to look here at
+an invisible correlation error. We're going to look at a situation
+where people don't think that outcomes are correlated or related to each
+other, but it turns out they actually are. So let's start with a quick
+explanation of how mortgages work. It's not that hard. I want to buy a house. I need to borrow $200,000. So I go to the bank,
+they lend me $200,000. And for
+the remaining 30 years of the mortgage, the bank will tell me exactly what dollar
+amount I need to pay to them every month to cover the interest on the mortgage. And also to reduce the principal
+on the mortgage so at the end of the 30 years the house is
+completely mine, I've paid it all off. Quick note by the way and
+again this is a finance class so lets not forget finance for a moment,
+in general mortgages don't last 30 years. Why not because most people
+don't live in the same home for 30 years, they tend to move house so
+on average. Or if interest rates are coming down, they may find that they can refinance into
+a mortgage that has a lower interest rate. So actually, on average,
+mortgages last about ten years. That's just a little detail. Okay, so until, a quick history lesson
+here on mortgages, until around 2001, the vast majority of mortgages that
+were issued by banks Went to people. To families that were
+considered prime borrowers. Prime in finance terms really
+usually just means good quality. The people who were getting
+mortgages had proven savings. And they probably had to use some
+of those savings to put in a down payment on the house. They had proven monthly income. They had a job. And they had a proven credit history, historically the credit card
+companies got their payments on time. This is not somebody who'd gone five
+months without making a payment or had been repeatedly overdrawn
+from their bank Account. Okay, so if I'm making loans, it makes
+sense to me that I'm going to lend money to people that have a proven quality
+to make their loan payments on time. And have a proven likelihood
+of income going forward so they will be able to make
+their future payments. It's on time. However, actually sorry, before I go there let's also talk
+about a couple of quick historical situations over the last 40 years or
+so, 50 years. Up until 2007 It was very, very unusual to see all
+house prices in general across the US all go
+down in value together. The last time we really saw that was in
+the 1930s during the Great Depression. Guess what? Most people who are alive right now,
+don't actually remember the 1930s. So for all of the banks and
+other lenders who are making loans, they tended to assume, prior to 2007. That it would never be the case,
+that all price, house prices, across the entire
+US would go down together. And this is where our invisible
+correlation comes into it. So let's see what happened when suddenly banks and savings and loans and other lending companies started to lend
+to borrowers who are not primed, okay. They started to lend to borrowers
+who did not have good savings. Who did not have proven income and who did
+not necessarily have a good credit rating. Now there's a big question about why lenders started doing
+that in the first place. I don't want to get into
+a lot of details on that. It's not relevant to what
+we're talking about., but I will say there was
+a Political piece to it. In the late nineties some legislation
+came through Congress that said lenders need to work harder at making loans to
+slightly lower credit quality people. They wanted to push the idea of the
+American dream and homeownership for all. But, let's just come back
+to the finance Of this. Suddenly, from 2001 onwards,
+a lot more loans were made to people who had lower credit quality. Those people were more likely
+to default on their loans. They were more likely to
+miss a mortgage payment in a way that prime
+borrowers typically don't. On average, prime borrowers if
+you look over history about 1-2% of prime borrowers in any given year will
+fail to make their mortgage payments. With sub-prime, borrowers who did
+not have high credit quality or good income The probability of them
+missing a loan payment became much higher. Okay, now I am going to explain a product
+called a mortgage back security. You may also have heard the term CDO. Here's how they work. Let's imagine that we have one mortgage
+from every single state in the US. Pool all those mortgages together. Every one of those fifty mortgages will
+be making a certain payment every month. Now, if we pool all of those 100 mortgages
+together and take the payments each month. And then you sell this product, this mortgage backed security to
+investors who want to make money from it. So they're paying a dollar amount now, the
+investors it's as if they're all, all of the investors of this product are pooling
+their money together to make those loans. And then, for every mortgage as
+the money comes in each month that money gets passed through to the
+investors who own this parcel of loans. What the ratings companies did,
+what the investment banks did and with the help of the rating agencies,
+was to break up those big pools of mortgages into
+different credit quality. Let's suppose we assume
+that only a really, really small number of people are likely
+to default on their mortgage loans. Those defaults would have gone through
+to what we call the Tripe B tranche. The that you see here on the graph go from triple a to double a to
+single a to triple b, and we have pools of mortgages
+at each of those levels. So the triple b is the lower the more
+risky and it has five mortgages in it. If any of the mortgages default,
+the first mortgage that defaults it's the triple B Tranche that's
+going to miss a payment that month. If five of the fifty mortgages default,
+the triple B Tranche, the guy who bought that Tranche,
+won't get any cashflows this month. He knows that he's carrying higher
+risk than the guys up above him. And if the borrowers don't default, he will actually end up with a better
+rate of return than the other tranches. It's set up that way,
+the mortgage bank security is set up so that the lower credit tranches expect to get a higher rate of return,
+slightly larger cash flows every period. But if there's a difficult
+they're the ones that miss, Okay. So up five defaults out of 50,
+up to 10% of Default. The only person that loses
+out is the Triple B Tranche. If however,
+a sixth mortgage in that pull defaults. Suddenly the Single A Tranche is going to
+get a little bit less money this month. And the same again, if we go all
+the way up to 10 defaults out of 50, both the triple B, and the double A and the Single A have stop getting
+any payments what so ever. And so
+on all the way up to the AAA tranche, which has 30 of the 50 mortgages in it. It would need 21 of these
+mortgages to default before the AAA tranche loses any money. As far as the models were concerned that
+these investment bankers put together whether or
+not there would be defaults of that much. All of the model said it was impossible that more that 5 or
+10 of those mortgages whatever default. Okay?
+2 reasons for that, one. Historically, prime quality mortgages
+simply did not default that much. They underestimated the extent
+to which subprime mortgages, mortgages issued to lower credit quality
+people who didn't have good income. They underestimated the extent to
+which those mortgages would default. And then, there's another piece to this. If house prices continue to go up and we're in a strong economy,
+if one of those subprime borrowers all of a sudden can't make
+his payments on his mortgage anymore. There was an exit opportunity
+that that borrower had. The exit opportunity was
+he's go back to the bank and he'd literally swap the old mortgage for
+a new mortgage. Because if the price of the house was
+going up, the value of that house more than compensated for
+moving into a new mortgage. So in that case, even though that particular mortgage
+borrower was about to default. It wasn't a problem for this mortgage-backed security
+because he would effectively sell his house at a profit getting yet
+another mortgage somewhere else. And then, the Triple B tranche investor, would get the big lump sum that comes
+from that borrower selling his house. That is another piece of these
+mortgage backed securities, remember that we said earlier that
+most mortgages don't last 30 years. So if somebody stops making mortgage
+payments, And they go and sell their house and all of those triple three borrowers
+are still going to get cash flow. It doesn't count like a default. The only time it counts like a default,
+is if the borrower doesn't make his mortgage payment and
+he can't sell his house. And what happened in 2007 was that, actually house prices started going
+down slightly in around 2006. But by 2007 and late 2007 especially,
+house prices all across the country. We're going down. Okay? No one had seen that before. We'd never seen house prices all
+the way from Florida on the East coast to California on the West coast. But all of these house
+prices started going down. So we've got subprime borrowers who
+are more likely to default anyway. And if they do run out of money,
+the option for them to just sell their house and
+pay off the mortgage. That way is no longer
+available because suddenly the house that they bought for
+$200,000 is now only worth $150,000. So if they sell that house,
+that's $50,000 of that loan that they can't pay off because
+they don't have the money themselves. The invisible correlation
+here is the completely unexpected affect that this
+happened in all 50 states. Remember what I said at the beginning,
+each one of those 50 mortgages comes from a different state,
+if California had a house price collapse. The sub prime borrowers in
+California might have defaulted, but you would think that wouldn't
+affect the borrower in Florida, his house price is still doing fine. Okay, which again is a reason
+why you might only expect five at most of these
+mortgages to default. But no, every single state, for every one of these borrowers,
+the prices of houses are going down. And they don't have much income, so they're defaulting on
+their mortgage payments. And selling their house is not
+going to pay off the loan. That's the hidden correlation,
+house prices all across the US went down together, and
+guess what as many as 40 and 50. And even 60% of these sub prime borrowers
+were defaulting on their loans. And couldn't sell their house for enough
+to pay off the balance of the loan, and hence the subcrime mortgage crisis.

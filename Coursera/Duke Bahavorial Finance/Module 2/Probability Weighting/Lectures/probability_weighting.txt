@@ -1,0 +1,47 @@
+The weighting function tells us we
+overweight low probability events. And later, we'll see that there
+are other situational factors that cause us to overweight low
+probability events even more. We underweight high probability events,
+especially events that are so common that we don't hear about
+them much in the newspapers. People die in car wrecks at a rate
+of around 50,000 a year in the US, we don't really think about that. Because sadly, but true. Car wrecks are somewhat commonplace. So we don't hear a lot about them in the
+media almost, because they happen a lot. We tend to be less
+sensitive to changes and probability in the middle of the range. Moving from a 30% probability to
+a 40% doesn't affect this that much. But moving from 0 to 10% or
+90% to certainty, those are much bigger impacts. Let's just finish this with
+a couple of quick examples. Catastrophe potential. We really, really have an increased
+perception of risk for activities that may injure or kill a large number of people
+violently and immediately. If we've seen an example of that
+in the past like I said earlier, a lot of Americans switched to
+driving from flying after 9/11. Because the immediacy, the drama,
+the horror of being in a plane or imaging being in a plane was so
+great even though the probability after 9/11 that you were going to be killed
+on a flight was infinitely lower, because security was raised so much. People moved to cars, they didn't
+realize that what they were doing was increasing the catastrophic
+potential of driving as a result. Interestingly, people
+are less likely to be subjectively affected
+by risks in which they feel like they have some expertise
+from a financial perspective. If I pick somebody or
+a mutual fund to manage my money and I know the portfolio manager there, and
+he's a friend, and he's a good guy. I might let him take more of my money
+to invest than I would with some random portfolio manager I had never met. What I'm doing there is
+assigning some expertise to myself in picking a good
+guy to manage my money. So it seems somehow,
+I'm more willing to take that risk. Familiarity too,
+something that we're used to doing. We don't tend to over assign risk to it. So, I don't know. Let's say, you're a surfer. And you want to go surfing those really,
+really big waves in Australia where once every ten years, they have some massive,
+massive waves out there. If you are not a surfer, that would seem
+like the probability of a catastrophic outcome from that would
+be absolutely huge. But if you're an expert surfer,
+you know you can handle it. It's really familiar environment to you. It just doesn't seem that risky to you. If anything, in fact, you might
+underweight the risk in that context. So, a final example of where we might
+see people putting lower subjective probability weight is when they choose
+to engage in a certain type of activity. Imagine that you have voluntarily chosen
+to be part of some sort of medical trial, simply because you know that it's for
+a drug that's important for many people and you want to be
+part of helping make that happen. So you're involved in a trial that
+actually, there is a small amount of risk involved in receiving that
+medical product that's being tested. But because you have volunteered
+to be engaged in this, you're not excessively overweighting
+the risky probability, because it's your choice to get
+involved in the first place.

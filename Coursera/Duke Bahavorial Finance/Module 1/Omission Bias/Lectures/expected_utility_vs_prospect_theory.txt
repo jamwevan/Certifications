@@ -1,0 +1,95 @@
+You've looked at some examples
+of behavior where your preferences probably, not with everybody,
+but with most people. Probably had you exhibiting risk
+seeking behavior over losses. That's the first big diversion
+from expected utility theory. The second thing that you probably saw
+in the loss version example is that losses of a particular size seem to
+loom larger than gains of the same size. In a sense, we're made more unhappy by a certain amount of dollar loss than we're
+made happy by that same dollar gain. And these two huge insights are what we're generating the prospect theory
+idea developed by Kahneman and Tversky, who I mentioned earlier. We tend to think of Kahneman and Tversky
+as the godparents of behavioral economics. They were the first guys to really write
+down a model here that more actively reflects the way we behave
+based on preferences. So let's take a look at these two graphs. On the left, we've got that same old
+standard utility model that you've seen in classical economics. Here's the big one. On the right, this is prospect theory. How does it differ from expected utility? Well, risk aversion over
+gains is still there. You see that in the upper
+right quadrant but we're risk seeking typically over losses. And that's the curve in
+the lower left quadrant. And that is different from what
+rational economists assume is the case. There's a third piece here,
+that's less obvious until we really stress it and
+that's that in Prospect Theory we're looking at everything relative
+to a reference point. That reference point is seating there
+handily right at the intersection of the vertical and
+horizontal lines on the right hand graph. And that's when we go above that,
+we risk reverse, when we go below that into lost
+territory we're risks seeking. Now, here's an interesting piece here,
+you and I might be at different reference points for
+the same outcome. Let's take an example again here. Let's suppose that you and I have both
+bought shares in Microsoft, okay. I bought my shares at $25. So, if Microsoft right now is trading at
+$35 I'm in gain territory, I'm happy. I've made $10 a share. I may decide, because of risk erosion,
+even though I think, I believe that Microsoft
+is still going to do well, I'm risk averse enough that I
+want to realize that $10 gain. That's going to make me happy. Now, again, objectively,
+Microsoft is currently trading at 35. You bought your Microsoft shares at,
+let's say, $45. Guess what? Your in loss territory, okay? You are not going to want to sell those
+shares because if you sell those shares, you'll be realizing the loss. You'll be acknowledging
+not just on paper but in actual dollars that
+you lost $10 a share. You're going to be risk-seeking. Even if you're still concerned
+that Microsoft may fall further, if you could convince yourself that there
+are good reasons why it might go back up. That $45 dollar point is
+where you bought the shares. You want it to get to 45. Microsoft doesn't care. Microsoft shares don't care that 45
+is a special number for you, nor does the rest of the world. But for you, it's a special number
+you want to get above that level. This cannot be a rational way for
+thinking about when to sell your shares. You should be thinking about when to
+sell your shares based on your beliefs about whether Microsoft is going to
+do well or do worse In the future. Not about whether that will involve you
+realizing a gain or a loss relative to that arbitrary point where you
+personally happen to buy the shares. And that set a huge insight in
+Prospect Theory that we just don't see in expected utility theory. Now, the third thing
+excuse me the fourth thing about the prospect paragraph, that again
+is different from expected utility. Remember, in the examples previously
+you look at loss aversion. And in the case of many of you,
+you would have chosen that you wouldn't play
+a game where there's a 50% chance of a big dollar
+outcome like $2000 and a 50% chance of a negative
+outcome of $1,000. And if somebody offered you the chance
+to play that game, no money down, we'll toss a coin. If it's heads you get 2,000,
+if it's tails you pay 1,000. Many of you would have
+said no to that game, why? Because losses loom larger than gains. The loss of $1000 is instinctively
+more negative to us than we would feel good about $2000 so
+we choose not to play that game. We don't even want to risk that loss. Bear in mind for a second, if somebody
+offered that you could play that game 100 times, you'd almost certainly do it. Over 100 outcomes,
+you can be pretty darn sure, the expected value of that game is $500,
+you'd be pretty sure you'd get there. But to play that game once and risk
+the loss of a 1,000, you're not doing it. Where do we see that on
+the Prospect Theory graph? That's a little bit more subtle on that
+graph that what the graph shows you though is the curve on the lower side of
+the right hand side of this slide Is steeper than the curve to the upside,
+okay? So not only is the curvature different but the steepness of this slope
+is greater to the downside. That loss of $1000 has a bigger negative value to
+you on the vertical axis. Then the gain of $2,000 does and
+that's loss aversion, okay? So to summarize,
+we've got risk aversion and risk seeking, reflected in the curvature,
+loss aversion reflected in the slopes. And the concept of a reference
+point at the point at which the curve changes from being
+risk adverse to risk seeking. That a classic economics risk aversion
+function looks like the one on the left, but for most of this class will go with the Prospect Theory risk
+aversion on the right hand side. Coming back to the whole
+reference point issue. In expected utility,
+we're always thinking about somebody's overall wealth and how much does
+an additional help with that. However, let's take a look at gains and
+losses relative to absolute wealth. Look at the upper, the graph on
+the upper right side of this slide. If I already have a ton of money,
+$50,000 whatever. The next $100 from the perspective or
+say the next $200, from the perspective of
+expected utility it's a tiny, tiny increase would barely even notice it. See how little impact it has on
+the vertical axis in that graph. Now let's turn to reality. $50,000 is a nice amount of money to
+have but do you recon that someone who $50,000 is going to be completely
+dismissive about the next 200? No, I don't think so either. We love making money. When we think about
+an opportunity to win 200 bucks. Maybe we go to Vegas, or we play a game
+with friends to try to win money. We're not thinking, gee, my total
+net worth is X thousand dollars, so what do I care about the next 200? We're thinking for this particular event,
+for this trip to Vegas, for this poker game with our friends. We're starting at zero. We haven't made or lost any money yet. Not comparing to my overall low. I'm just standing here and saying jee,
+I just made 200 bucks and I feel good. That's where the reference point of
+Prospect Theory is so important. We start at zero for
+each new big consideration or even small consideration of making or
+losing additional money.

@@ -1,0 +1,55 @@
+So take a look at this graph
+of wealth versus utility. This is one of the most common graphs
+that you will see in economics. Particularly in microeconomics, which is
+the study of how we behave as individuals. And I think most of us are intuitively
+comfortable with the idea that while more money is better, the increasing incremental dollars become less
+significant as each new dollar arrives. So, if we have no money and
+suddenly we make $100, that's huge once we've got that $100,
+the next $100 is not as big a deal. It still makes us happier, but it's not, doesn't give us such
+a boost in happiness as the first 100. Now, notice that I'm using the word happy. On the graph,
+the vertical axis says utility. That's the economist's word for happiness. I prefer to use the word happiness because
+utility seems like a very cold word, and what we're thinking about here is
+literally what does make us happy. Because it's what makes us happy
+that will give us the incentives to go and work more. Now, the other thing that's interesting
+about utility or happiness is there's no quantitative scale the way there is
+a quantitative scale for wealth. We measure wealth unit by unit in dollars. But there's no unit called a util or a happy that we can measure on
+the vertical axis so all we can really look at are relative changes in happiness
+that come with earning more money. So incremental increases,
+the marginal utility of money, is decreasing each additional
+dollar gives us more happiness, but not as much more happiness
+as the dollar before. So let's play a little game here, and think about what makes us happy in terms
+of whether or not we want more money. So ask yourself what you would pay, how much money you would be willing
+to spend to play the following game. Here is the game, you are going to
+toss a fair coin if it lands heads, you'll get $15. If it lands tails, you'll get $5. What's the expected value of the game? It's $10. Where's that coming from? The probability of getting 15 is a half. The probably of getting 5 is a half. Multiply each outcome by it's probability,
+add those together and we get an expected value of $10. Another way to think about expected value
+is to ask yourself, if I played this game. A hundred times,
+what do I expect I would end up with? Well, after 100 times you probably
+are going to be right around or close to the $1,000 mark,
+100 times the expected value. Now, ask yourself if the expected value
+is ten, but there is this variance around ten, how much money would you
+be willing to spend to play this game? Ask yourself, what's the utility or what happiness would you
+get from playing this game? The utility that you would get,
+U(G), the utility of the game, is half of the utility that
+you get from one outcome. That's for $15 plus half of the utility
+that you get from the other outcome. So just think for a second. How much would you be willing
+to pay to play this game? So I just asked you the question, how many dollars would you be
+willing to pay to play that game? Let's look at this in the context
+of our risk aversion graph. We've got the $5 mark and
+the $15 mark on the horizontal axis. Look at where those go
+to on the vertical axis. In particular, look at the difference
+between the U(15) and the U(5). Look at the range that you have there. It's a smaller range than the distance
+between 5 and 15 on the horizontal axis. Again this is part of the fact
+that each incremental dollar is worth a little bit less to us
+in happiness or utility terms. We can look at this mathematically. Take a look at the bottom of the slide,
+we've got the utility of the gain for us is half of the utility of 5,
+plus half of the utility of 15. And look at where that
+is on the vertical axis, the utility of the gain is worth
+less to us than the utility of the expected value of the gain,
+which as you can see is U(10). This is essentially
+the definition of risk aversion. But our utility for the outcomes
+individually is a little bit less than if we were looking at the combination
+of those outcomes together. That's risk aversion. Now, what we're going to see in
+divergence terms is that people are not always risk averse. And they don't always estimate
+the probabilities correctly. And that's where behavioral
+finance comes in. We'll see where there are predictable ways in which people
+make errors on both of those aspects.

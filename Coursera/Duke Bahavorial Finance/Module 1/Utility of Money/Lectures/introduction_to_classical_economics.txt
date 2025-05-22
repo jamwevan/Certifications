@@ -1,0 +1,14 @@
+Welcome to the first week
+of behavioral finance. Over the course of this entire course, you're going to see any number of
+ways in which we behave irrationally. And we're going to see how to correct for
+some of those errors. But if we're to understand irrationality, we need to start with kind of a definition
+of what is rational behavior. Rational behavior is what has
+been laid down over many decades by what we call classical economists,
+mostly the economists who would have taught you your
+introductory micro and macro classes. They're going with classical economics,
+it's always the thing that we teach first. But once you've got a little bit of
+a basis of that, it's kind of more fun to start looking at where people make
+mistakes and behave irrationally. So this week we're going to go through
+the intro, we're going to cover the basics of classical rational economics
+just to give us a starting point. And then from next week onwards, we'll
+start having fun with all the errors.

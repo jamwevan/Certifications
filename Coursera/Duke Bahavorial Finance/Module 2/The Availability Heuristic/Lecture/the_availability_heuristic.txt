@@ -1,0 +1,123 @@
+Okay, the availability heuristic is an
+interesting behavioral quirk of the human decision making process and during this
+course your are going to be introduced to a number of these so called heuristic. Heuristic is a interesting term. It is derived from the Greek work Eureka
+which of course means I found it. Which is just exactly the opposite
+of what heuristic is in humans. Heuristics are translated as biases or mistakes that people actually make in
+the whole decision making process. So the availability
+heuristic is interesting, especially in the state of mass media and
+social media where there is so much impact from the daily news and the
+various Facebooks and Twitters out there. But essentially think of it this way,
+it's a rule of thumb where decision makers assess Is the probability
+of an event by the ease of the recall. How easy is it to think about? So the best way to start it off,
+is to go with the joke. So a fellow tries to go onto a bar and
+the bouncer stops him and said, you can't come in here,
+you need to tie. And the fellow says,
+but I don't have a tie. He says,
+well you're going to have to go get one. So he goes out to his car,
+he sees he doesn't have a tie but in his trunk he has some jumper cables. So he ties the jump
+cables around his neck, makes a reasonable facsimile of a tie and
+he comes back in. And the bouncer looks at
+him very carefully and says okay, you can come in,
+but don't start anything. So if I ask you five years from
+now to talk about all the times that you have used jumper cables,
+you are probably not going to remember all the times that you helped your friends or
+your parents or your relatives or some poor passer by on the street
+that you jump started their cars. It is just a mundane human occurrence but you are probably going
+to remember that joke. And that's a perfect example
+of the availability heuristic. Another way to think
+about it is in real life, is that the many experiments have
+been done clinically on this. For example, students of all stripes
+are asked the question, [COUGH] which do more people die from, shark attacks or
+being hit on the head with a coconut? About 80% of the people
+say that shark attacks are a more frequent cause of death,
+and that's not true. There are far more coconut trees in
+the world than there are sharks, to start with. And second, there's far more coconuts
+falling from trees than shark attacks. But we remember the shark
+attacks because they are often put very forward in the news media. They are frightening,
+even if there's only one every 5 years. It's a incredibly memorable event. And so
+that's the secret behind availability. The memorable stuff that we can pull
+up influences our decision making. So let's go to the science of it, because we have to drill down a little
+bit on what makes it tick in society. And you're going to hear in a few minutes
+what really makes it tick in finance. First, when are you likely to overweight
+the probability of a rare event? And that's really what availability is,
+right? Because you're remembering something,
+it doesn't happen much but you get a lot more credence, that's what
+you're doing in your associative mind. So if it's an example, easy to recall. You can recall the jumper cables, right? You are now going to remember what jumper
+cables were used for in that instant. Even though it's probably never,
+ever going to happen, right? There have been recent occurrences. Recent occurrences often trigger
+the availability heuristic. If a tornado happened last week, there's
+probably going to be one next week, right? Well the odds are not exactly, if you look at the statistics
+it's not the way it happens. Tornadoes are essentially random events. But yet we're liable to
+think it's going to happen, far more frequently than it really should. Now the other way to think about
+the availability heuristic is when we underweight possibilities. So for example what if someone's not
+personally aware of a rare occurrence. So in that case you may be
+not even thinking about and therefore, you're not going to prepare for
+a dire event. If you have a situation where
+there's a blowup of a corporation. Let's look back into the last part of the
+decade where Enron and WorldCom blew up. Or even more recently where Some of
+the big banks in the world blew up and had to be restructured. We're liable to think
+that almost all banks or almost all corporations are in trouble
+as a result of a few going bad. It's unfortunately drives what
+we call availability cascades. For example in 2008 and
+2001 and 02 when a few stocks got overvalued and then all the
+sudden more were perceived as overvalued. And finally the herd decided
+everything is overvalued. It creates this cascade of events
+where all stocks are sold off, regardless of value. So that's the reason you have these
+horrific events, it's human behavior. It's people following heuristic or pattern
+of behavior that's quick, intuitive and associative and that it's that the heart
+of the availability heuristic. So where is it come from? A lot of the times when you talk
+about behavioral economics and behavioral finance there's are some
+clear links to psychology. It means no wonder that psychologists and
+clinical psychologists are all involved in some of the
+development areas in behavioral economics. And it's just a fact that our
+brains are wired a certain way. And we're going to talk about
+that later in the course. We're going to talk about the way
+our brains process information. We have a slow side and a fast side. We'll get into that later in the course. But one way to think about it is
+there's an evolutionary reason for almost every bias we have and
+particularly with availability. Here's one. If for example,
+if there's a real concern back in the evolutionary
+times that our tribe or our clan was worried about poison berries. Rather than being attacked by wild animals you're going to basically
+watch what you eat. That's the evolutionary extinct, right? We're going to worry a lot about that, but we're not going to expend much effort
+worrying about tigers and bears right. So it's an interesting way we evolved and
+if you think about that, it may well be that we're descended
+from people who when they saw the new berries, they're not likely the
+people who tried the new berries, right? We're descended from people who watched
+other people try the berries and then survived and that's who we are. So that idea of the evolutionary impact,
+or the evolutionary growth in these heuristics is really,
+really interesting I think. So let's think about this,
+going back to high drama events, if you have a, in terms of everyday, we bias, we overweight low
+probabilities all the time. And perfect example is how many
+people were really afraid to fly after September 11, 2001. And it's amazing most of the airlines went bankrupt cause no one was flying,
+etc, etc. When, in fact it's one of
+the safest ways to travel and always has been one of
+the safest ways to travel. You see this often in, for example, where there's some food poisoning cases,
+very rare events. However, people will en masse not
+consume a product even remotely associated with a product where they
+found, say botulism or something else. And that's an example of the evolutionary
+aspects of availability. We're trying to protect ourselves. We're in the herd,
+we don't want to be caught unaware, and therefore we over insure for
+a possibility that may not occur. Okay, so if outcomes are really
+easy to imagine then we've already said look then imagine then
+we'll make them more profitable probable. And that's a very important
+fact when you think about, for example,
+just basic business transactions. How about insurance? Insurance sales people sell vividness
+when they're selling insurance. They're selling your
+house could burn down. You're going to have a terrible axe. People come to your property and
+have a terrible axe. All very low probability and
+some of them quite low cost, broken windows, for example. It's a high cost to insure broken
+windows and cars and houses yet and they don't happen all that often. Yet, people often subscribe to
+that type of insurance, because the vividness of a broken window and
+windshield is high, and people therefore want to buy insurance whether or not they
+don't look really at the probabilities. Here's another one, when you talk about
+add ons in a purchase, we'll talk about this in a second but how many of you have
+ever been to a consumer electronics store. And you've bought your television or your
+camcorder or whatever it is, your PDA, and the insurance person wants to
+sell you a warranty with it, right? Well, typically those protections
+are expire worthless. In a vast, vast majority of the cases. And second, they are almost always construed in
+the extent that they are hard to enforce. So they are typically worthless, yet you would be surprised how many
+people buy these warranties, they are a very large profit margin for
+consumer electronics people. It's a perfect example in real life
+how the availability heuristic. The thought well,
+I might drop my iPhone in the bathtub, which is of course incredibly rare,
+can be insured against. And you can see those things
+can be quite costly over time.
