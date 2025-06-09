@@ -1,0 +1,13 @@
+/****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [StockItemTransactionID]
+      ,[StockItemID]
+      ,[TransactionTypeID]
+      ,[CustomerID]
+      ,[InvoiceID]
+      ,[SupplierID]
+      ,[PurchaseOrderID]
+      ,[TransactionOccurredWhen]
+      ,[Quantity]
+      ,[LastEditedBy]
+      ,[LastEditedWhen]
+  FROM [WideWorldImporters].[Warehouse].[StockItemTransactions]
