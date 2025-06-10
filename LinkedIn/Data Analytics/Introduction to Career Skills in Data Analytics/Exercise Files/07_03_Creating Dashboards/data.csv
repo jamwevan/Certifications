@@ -1,0 +1,87 @@
+﻿CompanyName,OrderID,ProductName,Quantity,UnitPrice,TotalAfterDiscount
+Alfreds Futterkiste,10835,Original Frankfurter grüne Soße,2,13,$20.80
+Alfreds Futterkiste,10835,Peanut Butter Cups,15,55,$825.00
+Alfreds Futterkiste,10952,Grandma's Boysenberry Spread,16,25,$380.00
+Alfreds Futterkiste,10952,Rössle Sauerkraut,2,45.6,$91.20
+Alfreds Futterkiste,11011,Escargots de Bourgogne,40,13.25,$503.50
+Alfreds Futterkiste,11011,Flotemysost,20,21.5,$430.00
+Blauer See Delikatessen,10956,Manjimup Dried Apples,8,53,$424.00
+Blauer See Delikatessen,10956,Sir Rodney's Scones,12,10,$120.00
+Blauer See Delikatessen,10956,Zaanse koeken,14,9.5,$133.00
+Blauer See Delikatessen,11058,Camembert Pierrot,21,34,$714.00
+Blauer See Delikatessen,11058,Sir Rodney's Scones,3,10,$30.00
+Blauer See Delikatessen,11058,Sirop d'érable,4,28.5,$114.00
+Die Wandernde Kuh,11046,Mascarpone Fabioli,15,32,$456.00
+Die Wandernde Kuh,11046,Queso Manchego La Pastora,20,38,$722.00
+Die Wandernde Kuh,11046,Steeleye Stout,18,18,$307.80
+Drachenblut Delikatessen,10825,Gumbär Gummibärchen,12,31.23,$374.76
+Drachenblut Delikatessen,10825,Perth Pasties,20,32.8,$656.00
+Drachenblut Delikatessen,11036,Konbu,7,6,$42.00
+Drachenblut Delikatessen,11036,Peanut Butter Cups,30,55,$1650.00
+Drachenblut Delikatessen,11067,Jack's New England Clam Chowder,9,9.65,$86.85
+Frankenversand,10859,Guaraná Fantástica,40,4.5,$135.00
+Frankenversand,10859,Tourtière,35,7.45,$195.56
+Frankenversand,10859,Wimmers gute Semmelknödel,30,33.25,$748.13
+Frankenversand,10929,Original Frankfurter grüne Soße,15,13,$195.00
+Frankenversand,10929,Rhönbräu Klosterbier,49,7.75,$379.75
+Frankenversand,10929,Sir Rodney's Scones,60,10,$600.00
+Frankenversand,11012,Camembert Pierrot,36,34,$1162.80
+Frankenversand,11012,Flotemysost,60,21.5,$1225.50
+Frankenversand,11012,Teatime Chocolate Biscuits,50,9.2,$437.00
+Königlich Essen,10817,Boston Crab Meat,60,18.4,$938.40
+Königlich Essen,10817,Côte de Blaye Wines,30,263.5,$7905.00
+Königlich Essen,10817,Gumbär Gummibärchen,40,31.23,$1061.82
+Königlich Essen,10817,Tarte au sucre,25,49.3,$1047.63
+Königlich Essen,10849,Gumbär Gummibärchen,18,31.23,$477.82
+Königlich Essen,10849,Maple Syrup,49,10,$490.00
+Königlich Essen,10893,Guaraná Fantástica,10,4.5,$45.00
+Königlich Essen,10893,Inlagd Sill,20,19,$380.00
+Königlich Essen,10893,Nord-Ost Matjeshering,35,25.89,$906.15
+Königlich Essen,10893,Northwoods Cranberry Sauce,30,40,$1200.00
+Königlich Essen,10893,Thüringer Rostbratwurst,24,123.79,$2970.96
+Königlich Essen,11028,Pâté chinois,35,24,$840.00
+Königlich Essen,11028,Peanut Butter Cups,24,55,$1320.00
+Lehmanns Marktstand,10862,Filo Mix,8,7,$56.00
+Lehmanns Marktstand,10862,Queso Cabrales,25,21,$525.00
+Lehmanns Marktstand,10891,Nord-Ost Matjeshering,15,25.89,$368.93
+Lehmanns Marktstand,10934,Grandma's Boysenberry Spread,20,25,$500.00
+Lehmanns Marktstand,11070,Chai,40,18,$612.00
+Lehmanns Marktstand,11070,Chang,20,19,$323.00
+Lehmanns Marktstand,11070,Gorgonzola Telino,20,12.5,$250.00
+Lehmanns Marktstand,11070,Pavlova,30,17.45,$444.98
+Morgenstern Gesundkost,10945,Gorgonzola Telino,10,12.5,$125.00
+Morgenstern Gesundkost,10945,Konbu,20,6,$120.00
+Ottilies Käseladen,10833,Gorgonzola Telino,9,12.5,$101.25
+Ottilies Käseladen,10833,Perth Pasties,9,32.8,$265.68
+Ottilies Käseladen,10833,Uncle Bob's Organic Dried Pears,20,30,$540.00
+Ottilies Käseladen,10999,Jack's New England Clam Chowder,20,9.65,$183.35
+Ottilies Käseladen,10999,Manjimup Dried Apples,15,53,$755.25
+Ottilies Käseladen,10999,Original Frankfurter grüne Soße,21,13,$259.35
+QUICK-Stop,10845,Escargots de Bourgogne,60,13.25,$715.50
+QUICK-Stop,10845,Singaporean Hokkien Fried Mee,42,14,$529.20
+QUICK-Stop,10845,Steeleye Stout,25,18,$405.00
+QUICK-Stop,10845,Tunnbröd,70,9,$567.00
+QUICK-Stop,10845,Wimmers gute Semmelknödel,48,33.25,$1596.00
+QUICK-Stop,10865,Chartreuse verte,80,18,$1368.00
+QUICK-Stop,10865,Côte de Blaye Wines,60,263.5,$15019.50
+QUICK-Stop,10878,Sir Rodney's Marmalade,20,81,$1539.00
+QUICK-Stop,10938,Camembert Pierrot,49,34,$1249.50
+QUICK-Stop,10938,Flotemysost,35,21.5,$564.38
+QUICK-Stop,10938,Ipoh Coffee,24,46,$828.00
+QUICK-Stop,10938,Konbu,20,6,$90.00
+QUICK-Stop,10962,Gudbrandsdalsost,9,36,$324.00
+QUICK-Stop,10962,Konbu,77,6,$462.00
+QUICK-Stop,10962,Lakkalikööri,44,18,$792.00
+QUICK-Stop,10962,Perth Pasties,20,32.8,$656.00
+QUICK-Stop,10962,Uncle Bob's Organic Dried Pears,45,30,$1350.00
+QUICK-Stop,10991,Chang,50,19,$760.00
+QUICK-Stop,10991,Lakkalikööri,90,18,$1296.00
+QUICK-Stop,10991,Outback Lager,20,15,$240.00
+QUICK-Stop,10996,Singaporean Hokkien Fried Mee,40,14,$560.00
+QUICK-Stop,11021,Chang,11,19,$156.75
+QUICK-Stop,11021,Gumbär Gummibärchen,63,31.23,$1967.49
+QUICK-Stop,11021,Manjimup Dried Apples,44,53,$1749.00
+QUICK-Stop,11021,Mozzarella di Giovanni,35,34.8,$1218.00
+QUICK-Stop,11021,Sir Rodney's Marmalade,15,81,$1215.00
+Toms Spezialitäten,10967,Maxilaku,40,20,$800.00
+Toms Spezialitäten,10967,Teatime Chocolate Biscuits,12,9.2,$110.40
